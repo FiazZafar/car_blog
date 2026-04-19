@@ -74,7 +74,7 @@ flutter run -d chrome
 
 ## 📸 Screenshots
 
-*(Add screenshots here if you want — highly recommended for GitHub)*
+*Comming Soon...*
 
 ---
 
