@@ -1,9 +1,3 @@
-Love this moment 😄 — let’s give your project a **proper README** it deserves.
-
-Here’s a **clean, professional, portfolio-ready README** you can copy-paste into your GitHub repo 👇
-
----
-
 # 🚗 Car Blog – Responsive Flutter Web App
 
 A modern **Car Blog application built with Flutter**, focused on clean UI, smooth navigation, and **100% responsive design** across mobile, tablet, and desktop screens.
